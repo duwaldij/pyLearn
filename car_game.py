@@ -18,9 +18,9 @@ while True:
         print("""
 start- to start the car
 stop- to stop the car
-exit- to exit
+exit- to quit the game
         """)
-    elif command =="quit":
+    elif command =="exit":
         break
     else:
         print("I dont understand")
